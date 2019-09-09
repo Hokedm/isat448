@@ -1,2 +1,2 @@
 # isat448
-repository for all things ISAT 448 related
+This repository serves as the data storage of all projects made for the ISAT 448 class
